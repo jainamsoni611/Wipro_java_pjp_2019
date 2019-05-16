@@ -1,5 +1,2 @@
-# Wipro_JavaPJP
-WIPRO PJP course backup
-
-link
+# WiproPJP
 http://59.162.104.101:25000/PBLApp
